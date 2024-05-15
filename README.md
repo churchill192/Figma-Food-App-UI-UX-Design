@@ -29,5 +29,7 @@ Below is the video
 
 https://github.com/churchill192/Figma-Food-App-UI-UX-Design/assets/104425652/27d99bad-c210-43f7-901d-878e0738d29f
 
+Figma Link : https://www.figma.com/design/0v6qDhweooHRX5mw5Hs7d3/Food-App-UX?node-id=0%3A1&t=UR48fxLk8oSeAeVf-1
+
 
 
