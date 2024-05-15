@@ -3,6 +3,7 @@
 UX/UI Design of a food delivery app made in Figma.
 
 Created by : Churchill Sudharsan Paul G
+
 Email id: churchillsudharsanpaul1@gmail.com
 
 The persona is wanted to make a simple food delivery application UI design for a company.
