@@ -1,6 +1,6 @@
-# Figma-Food-App-UI-UX-Design
+# Figma-Food-Delivery-App-UI-UX-Design
 
-UX/UI Design of a food app made in Figma.
+UX/UI Design of a food delivery app made in Figma.
 
 Created by : Churchill Sudharsan Paul G
 Email id: churchillsudharsanpaul1@gmail.com
