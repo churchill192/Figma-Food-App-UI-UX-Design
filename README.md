@@ -19,7 +19,7 @@ The fifth page is check-out page.
 The sixth page is the last page saying thank you for ordering food.
 
 
-![ui proto](https://github.com/churchill192/Figma-Food-App-UI-UX-Design/assets/104425652/718f8811-1cc4-485a-a1b0-57bfb296d6b5)
+![ui 2](https://github.com/churchill192/Figma-Food-App-UI-UX-Design/assets/104425652/00ed5696-97a4-4954-a0a7-52f629b137e2)
 
 
 This is the complete UI design for the above UX workflow.
